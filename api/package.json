@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api de la aplicación creada por graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Francisc Javier Moreno García",
+    "email": "elboqueronpaco@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.9.21"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/node": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "nodemon": "^2.0.4"
+  }
+}
